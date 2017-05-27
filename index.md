@@ -1,10 +1,10 @@
 ## Welcome to the Test Website
 
-Below are the Projects you have worked on.
+Your Projects will be stored and linked here
+<br></br>
+### _*Projects*_
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sample1: [Link](https://chocolatedeath.github.io/Website/Sample1)
 
-```markdown
-Sample1: [Link to project](hppt://chocolatedeath.github.io/Website/Sample1/)
-```
 
 
 
