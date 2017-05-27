@@ -1,8 +1,8 @@
 ## Welcome to the Test Website
 
 Your Projects will be stored and linked here
-<br></br>
-### _*Projects*_
+<br><br>
+### ***Projects***
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sample1: [Link](https://chocolatedeath.github.io/Website/Sample1)
 
 
