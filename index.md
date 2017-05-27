@@ -2,7 +2,7 @@
 
 Your Projects will be stored and linked here
 <br><br>
-### <u>***Projects***</u>
+<h2><u>Projects</u></h2>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sample1: [Link](https://chocolatedeath.github.io/Website/Sample1)
 
 
