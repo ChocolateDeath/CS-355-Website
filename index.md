@@ -4,6 +4,12 @@ Your Projects will be stored and linked here
 <br><br>
 <h2><u>Projects</u></h2>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sample1: [Link](https://chocolatedeath.github.io/Website/Sample1)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sample2: Link
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sample3: Link
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sample4: Link
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sample5: Link
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sample6: Link
 
 
 
