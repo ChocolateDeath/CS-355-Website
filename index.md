@@ -3,7 +3,7 @@
 Below are the Projects you have worked on.
 
 ```markdown
-Sample1: [Link to project](hppt://chocolatedeath.github.io/Sample1/)
+Sample1: [Link to project](hppt://chocolatedeath.github.io/Website/Sample1/)
 ```
 
 
